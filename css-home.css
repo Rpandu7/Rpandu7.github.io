@@ -1,0 +1,23 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: linen;
+}
+
+.menu {
+    background-color: #00a8a8;
+    border: 1px solid #00a8a8;
+    padding: 10px;
+    width: 501px;
+    height: 50px;
+    right: 7px;
+    bottom: 8px;
+    position: relative;
+}
+
+.nuris {
+    position: relative;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 30px;
+    bottom: 20px;
+}
+
